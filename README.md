@@ -99,7 +99,7 @@
 *Student utility tool for calculating academic CGPA*
 
 **Tech Stack:** `HTML` `CSS` `JavaScript`  
-[🧮 Use Calculator](https://mahdiebene.github.io/CGPA-Calculator) • [📄 View Code](https://github.com/mahdiebene/CGPA-Calculator)
+[📄 View Code](https://github.com/mahdiebene/CGPA-Calculator)
 
 </div>
 
