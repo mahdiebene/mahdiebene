@@ -70,7 +70,7 @@ I'm a first-year **Computer Science & Engineering** student at **East West Unive
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiebene&theme=tokyonight" alt="mahdiebene" />
+  <img src="https://streak-stats.demolab.com/?user=mahdiebene&theme=tokyonight" alt="mahdiebene" />
 </div>
 
 ---
