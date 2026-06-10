@@ -16,12 +16,12 @@
 
 ## 🚀 About Me
 
-I'm a first-year **Computer Science & Engineering** student at **East West University** (2025), based in **Dhaka, Bangladesh**. I'm passionate about building beautiful, functional web interfaces and sharpening my problem-solving skills through competitive programming.
+I'm a Second-year **Computer Science & Engineering** student at **East West University** (2026), based in **Dhaka, Bangladesh**. I'm passionate about building beautiful, functional web interfaces and sharpening my problem-solving skills through competitive programming.
 
-- 🔭 I’m currently working on **mastering the web foundation trio (HTML, CSS, JS) and C.**
-- 🌱 I’m currently learning **React, Next.js, and TypeScript.**
-- 👯 I’m looking to collaborate on **beginner-friendly builds and contest practice.**
-- 💬 Ask me about **Frontend development and Competitive Programming.**
+- 🔭 I’m currently working on **AI and Automation, Looking for contributing to Opensource projects.**
+- 🌱 I’m currently learning **C++.**
+- 👯 I’m looking to collaborate on **Challanging and inovative builds and contest practice.**
+- 💬 Ask me about **Web development and Competitive Programming.**
 
 ---
 
