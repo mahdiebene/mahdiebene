@@ -20,7 +20,7 @@
             /* Selector detects Firefox */
             .header { font-size: 15.5px; }
           }
-
+          
     @keyframes slideInAnimation {
       from {
         width: 0;
@@ -60,10 +60,10 @@
       animation: growWidthAnimation 0.6s ease-in-out forwards;
     }
     .progress-background { fill: #ddd; }
+    
+          
 
-
-
-
+          
       /* Animations */
       @keyframes scaleInAnimation {
         from {
@@ -81,16 +81,16 @@
           opacity: 1;
         }
       }
-
+    
           * { animation-duration: 0s !important; animation-delay: 0s !important; }
         </style>
 
-
+        
         <defs>
-
-
+          
+          
         </defs>
-
+        
 
         <rect
           data-testid="card-bg"
@@ -105,7 +105,7 @@
           stroke-opacity="1"
         />
 
-
+        
       <g
         data-testid="card-title"
         transform="translate(25, 35)"
@@ -119,20 +119,20 @@
       >Most used languages</text>
     </g>
       </g>
-
+    
 
         <g
           data-testid="main-card-body"
           transform="translate(0, 55)"
         >
-
+          
     <svg data-testid="lang-items" x="25">
-
-
+      
+  
       <mask id="rect-mask">
           <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
         </mask>
-
+        
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -142,7 +142,7 @@
           height="8"
           fill="#e34c26"
         />
-
+      
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -152,7 +152,7 @@
           height="8"
           fill="#3178c6"
         />
-
+      
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -162,7 +162,7 @@
           height="8"
           fill="#f1e05a"
         />
-
+      
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -172,7 +172,7 @@
           height="8"
           fill="#00B4AB"
         />
-
+      
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -182,7 +182,7 @@
           height="8"
           fill="#3572A5"
         />
-
+      
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -192,7 +192,7 @@
           height="8"
           fill="#663399"
         />
-
+      
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -202,7 +202,7 @@
           height="8"
           fill="#b07219"
         />
-
+      
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -212,8 +212,8 @@
           height="8"
           fill="#555555"
         />
-
-
+      
+      
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
@@ -273,8 +273,9 @@
     </g>
   </g></g>
     </g>
-
+  
     </svg>
-
+  
         </g>
       </svg>
+    
