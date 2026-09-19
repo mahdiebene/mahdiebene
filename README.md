@@ -13,6 +13,18 @@
   </samp>
 </p>
 
+<p align="center">
+  <a href="https://github.com/mahdiebene?tab=followers">
+    <img src="https://img.shields.io/github/followers/mahdiebene?style=flat-square&amp;color=C4F56A&amp;labelColor=101510&amp;label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/mahdiebene?tab=repositories&amp;sort=stargazers">
+    <img src="https://img.shields.io/github/stars/mahdiebene?style=flat-square&amp;color=C4F56A&amp;labelColor=101510&amp;label=Total%20stars&amp;affiliations=OWNER" alt="Total stars across repositories" />
+  </a>
+  <a href="https://github.com/mahdiebene">
+    <img src="https://komarev.com/ghpvc/?username=mahdiebene&amp;color=C4F56A&amp;style=flat-square&amp;label=Profile+views" alt="Profile views" />
+  </a>
+</p>
+
 # Hey, I'm Mahdi
 
 I'm **Mahdi Ebene Mahmud**, a **Computer Science & Engineering student at East West University**, based in **Dhaka, Bangladesh**. I enjoy building web interfaces and working through programming problems—not just getting something to run, but understanding how it works.
@@ -28,6 +40,12 @@ This is where I share what I'm building and learning: frontend experiments, usef
 
 ## Languages & tools
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,flutter,dart,python,fastapi,nodejs,express,supabase,redis,c,cpp,java,git,vscode,vite&amp;perline=8" alt="Icons for HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS, Flutter, Dart, Python, FastAPI, Node.js, Express, Supabase, Redis, C, C++, Java, Git, VS Code, and Vite" />
+  </a>
+</p>
+
 **Frontend:** `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Astro` `Tailwind CSS`
 
 **Mobile:** `Flutter` `Dart` `Hive`
@@ -38,17 +56,40 @@ This is where I share what I'm building and learning: frontend experiments, usef
 
 ## Competitive programming
 
+<a href="https://codeforces.com/profile/M4hdl">
+  <img align="right" src="https://codeforces-readme-stats.vercel.app/api/card?username=M4hdl&amp;theme=dark&amp;bg_color=101510&amp;title_color=C4F56A&amp;text_color=F1F5EB&amp;icon_color=C4F56A&amp;border_color=2A3426&amp;disable_animations=true" width="380" alt="Codeforces statistics for M4hdl: rating, max rating, rated contests, and problems solved" />
+</a>
+
 You'll find me on **[Codeforces as M4hdl](https://codeforces.com/profile/M4hdl)**. I'm practicing with **C++**, building my understanding of algorithms, and getting better at breaking problems down.
+
+The card updates automatically, though cached results may take a while to catch up. My Codeforces profile has the latest contest results.
 
 Want to practice for a contest or compare approaches to a problem? I'm up for it.
 
+<br clear="right" />
+
 ## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/mahdiebene">
+    <img src="./profile/stats.svg" width="467" alt="GitHub statistics for mahdiebene: stars, commits, pull requests, issues, and rank" />
+  </a>
+  <a href="https://github.com/mahdiebene?tab=repositories">
+    <img src="./profile/top-langs.svg" width="308" alt="Most used languages across public repositories" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/mahdiebene?tab=overview">
     <img src="https://streak-stats.demolab.com/?user=mahdiebene&amp;background=101510&amp;border=2A3426&amp;stroke=2A3426&amp;ring=C4F56A&amp;fire=C4F56A&amp;currStreakNum=F1F5EB&amp;sideNums=F1F5EB&amp;currStreakLabel=C4F56A&amp;sideLabels=ABB7A3&amp;dates=ABB7A3&amp;disable_animations=true" width="495" alt="Mahdi's GitHub contributions, current streak, and longest streak" />
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
+  <img src="./profile/snake-dark.svg" width="100%" alt="A snake eating its way through my GitHub contribution graph, regenerated daily" />
+</picture>
 
 <p align="center">
   <a href="https://github.com/mahdiebene?tab=overview">Contributions</a> &nbsp;·&nbsp;
