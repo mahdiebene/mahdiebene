@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">EWU Toolbox — less juggling, more learning</title>
+  <desc id="desc">An original illustration of a timetable, a checked course list, and academic tools, in blue on graphite. Not a product screenshot.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#293647" /></pattern>
+    <radialGradient id="glow"><stop stop-color="#8BBEFF" stop-opacity=".13" /><stop offset="1" stop-color="#8BBEFF" stop-opacity="0" /></radialGradient>
+    <clipPath id="bounds"><rect width="640" height="240" rx="14" /></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="640" height="240" fill="#131A23" />
+    <rect x="340" width="300" height="240" fill="url(#grid)" />
+    <circle cx="498" cy="115" r="164" fill="url(#glow)" />
+    <path d="M28 1H188" stroke="#8BBEFF" stroke-width="2" />
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <text x="28" y="39" fill="#8BBEFF" font-family="Consolas, monospace" font-size="12" letter-spacing="2">02 / CAMPUS COMPANION</text>
+      <text x="28" y="107" fill="#EDF3FC" font-size="36" font-weight="700" letter-spacing="-1">Less juggling.</text>
+      <text x="28" y="148" fill="#EDF3FC" font-size="36" font-weight="700" letter-spacing="-1">More learning.</text>
+      <text x="28" y="208" fill="#A3B4CA" font-family="Consolas, monospace" font-size="12" letter-spacing="1">BUILT FOR LIFE AT EWU</text>
+    </g>
+    <g transform="translate(401 53) rotate(-6 69 64)">
+      <rect width="138" height="129" rx="10" fill="#1A2634" stroke="#506F96" stroke-width="1.5" />
+      <path d="M0 31H138M27-6V7M109-6V7" stroke="#8BBEFF" stroke-width="3" stroke-linecap="round" />
+      <g fill="#304760">
+        <rect x="16" y="46" width="26" height="19" rx="4" />
+        <rect x="56" y="46" width="26" height="19" rx="4" />
+        <rect x="96" y="46" width="26" height="19" rx="4" />
+        <rect x="16" y="78" width="26" height="19" rx="4" />
+        <rect x="96" y="78" width="26" height="19" rx="4" />
+      </g>
+      <rect x="56" y="78" width="26" height="19" rx="4" fill="#8BBEFF" />
+    </g>
+    <g transform="translate(513 118) rotate(8 40 42)">
+      <rect width="76" height="80" rx="9" fill="#1B2C41" stroke="#8BBEFF" stroke-width="1.5" />
+      <g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 24L18 28L25 20M14 46L18 50L25 42" stroke="#8BBEFF" stroke-width="3" />
+        <path d="M35 24H61M35 46H61M14 65H50" stroke="#6784A6" stroke-width="3" />
+      </g>
+    </g>
+    <path d="M573 45V63M564 54H582" stroke="#8BBEFF" stroke-width="2" />
+    <rect x=".5" y=".5" width="639" height="239" rx="13.5" stroke="#2A394D" />
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Mahdi Ebene Mahmud — curiosity, put to work.</title>
+  <desc id="desc">A graphite and lime banner with an original geometric M, orbital paths, and a dot grid. Web, AI, and everything in between.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#303A30" />
+    </pattern>
+    <radialGradient id="glow">
+      <stop stop-color="#C4F56A" stop-opacity=".12" />
+      <stop offset="1" stop-color="#C4F56A" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accent" x1="48" y1="0" x2="1152" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C4F56A" />
+      <stop offset="1" stop-color="#C4F56A" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="bounds"><rect width="1200" height="380" rx="20" /></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="380" fill="#101510" />
+    <rect x="730" width="470" height="380" fill="url(#grid)" />
+    <circle cx="975" cy="180" r="260" fill="url(#glow)" />
+    <path d="M48 1H1152" stroke="url(#accent)" stroke-width="2" />
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <g font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2">
+        <circle cx="55" cy="51" r="5" fill="#C4F56A" />
+        <text x="72" y="56" fill="#DDE5D7">MAHDI EBENE MAHMUD</text>
+        <text x="1148" y="56" fill="#94A28C" text-anchor="end">M4HDI / DHAKA, BD</text>
+      </g>
+      <text x="48" y="161" fill="#F1F5EB" font-size="80" font-weight="700" letter-spacing="-4">Curiosity,</text>
+      <text x="48" y="246" fill="#C4F56A" font-size="80" font-weight="700" letter-spacing="-4">put to work.</text>
+      <text x="52" y="292" fill="#ABB7A3" font-size="21">Web, AI, and everything in between.</text>
+      <path d="M52 326H700" stroke="#2A3426" />
+      <text x="52" y="353" fill="#94A28C" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2">BUILD THINGS. SOLVE PROBLEMS. KEEP LEARNING.</text>
+    </g>
+    <g transform="translate(959 199)">
+      <circle r="137" stroke="#34422C" />
+      <circle r="105" stroke="#34422C" stroke-dasharray="3 9" />
+      <ellipse rx="170" ry="61" transform="rotate(-35)" stroke="#658643" />
+      <ellipse rx="170" ry="61" transform="rotate(35)" stroke="#34422C" />
+      <path d="M-64 52V-52L0 15L64-52V52" stroke="#C4F56A" stroke-width="15" stroke-linecap="square" stroke-linejoin="miter" />
+      <circle cx="112" cy="-79" r="7" fill="#C4F56A" />
+      <circle cx="-112" cy="79" r="5" fill="#101510" stroke="#C4F56A" stroke-width="2" />
+      <path d="M-7-137H7M0-144V-130M-7 137H7M0 130V144" stroke="#94A28C" />
+    </g>
+    <rect x=".5" y=".5" width="1199" height="379" rx="19.5" stroke="#2A3426" />
+  </g>
+</svg>
