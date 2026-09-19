@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ani-Gadgets — find your next favorite</title>
+  <desc id="desc">An original illustration of collectible merchandise cards with a star and a shopping bag, in lavender on graphite. Not a product screenshot.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#3A2F47" /></pattern>
+    <radialGradient id="glow"><stop stop-color="#C9A3FF" stop-opacity=".13" /><stop offset="1" stop-color="#C9A3FF" stop-opacity="0" /></radialGradient>
+    <clipPath id="bounds"><rect width="640" height="240" rx="14" /></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="640" height="240" fill="#1A1522" />
+    <rect x="340" width="300" height="240" fill="url(#grid)" />
+    <circle cx="498" cy="115" r="164" fill="url(#glow)" />
+    <path d="M28 1H188" stroke="#C9A3FF" stroke-width="2" />
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <text x="28" y="39" fill="#C9A3FF" font-family="Consolas, monospace" font-size="12" letter-spacing="2">03 / ANIME DISCOVERY</text>
+      <text x="28" y="107" fill="#F4EDFC" font-size="36" font-weight="700" letter-spacing="-1">Find your</text>
+      <text x="28" y="148" fill="#F4EDFC" font-size="36" font-weight="700" letter-spacing="-1">next favorite.</text>
+      <text x="28" y="208" fill="#BAA9CC" font-family="Consolas, monospace" font-size="12" letter-spacing="1">FOR FANS IN BANGLADESH</text>
+    </g>
+    <g transform="translate(395 59) rotate(-12 49 63)">
+      <rect width="98" height="128" rx="10" fill="#261E32" stroke="#78608F" stroke-width="1.5" />
+      <rect x="10" y="10" width="78" height="80" rx="6" fill="#362744" />
+      <path d="M49 25L56 43L76 44L60 56L65 75L49 64L33 75L38 56L22 44L42 43Z" fill="#C9A3FF" fill-opacity=".2" stroke="#C9A3FF" stroke-width="2" stroke-linejoin="round" />
+      <path d="M13 104H63M13 114H43" stroke="#78608F" stroke-width="3" stroke-linecap="round" />
+    </g>
+    <g transform="translate(488 57) rotate(10 49 63)">
+      <rect width="98" height="128" rx="10" fill="#2B213A" stroke="#C9A3FF" stroke-width="1.5" />
+      <rect x="10" y="10" width="78" height="80" rx="6" fill="#3A2B4B" />
+      <path d="M31 40H67L72 75H26L31 40ZM39 41V33A10 10 0 0 1 59 33V41" stroke="#C9A3FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M13 104H63M13 114H43" stroke="#9E7CBE" stroke-width="3" stroke-linecap="round" />
+    </g>
+    <path d="M591 33V51M582 42H600M393 204H594" stroke="#78608F" stroke-width="1.5" />
+    <circle cx="591" cy="42" r="3" fill="#C9A3FF" />
+    <rect x=".5" y=".5" width="639" height="239" rx="13.5" stroke="#3B2D49" />
+  </g>
+</svg>

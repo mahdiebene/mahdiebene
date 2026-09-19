@@ -13,20 +13,20 @@
   </samp>
 </p>
 
-# Hey, I'm Mahdi 👋
+# Hey, I'm Mahdi
 
 I'm **Mahdi Ebene Mahmud**, a **Computer Science & Engineering student at East West University**, based in **Dhaka, Bangladesh**. I enjoy building web interfaces and working through programming problems—not just getting something to run, but understanding how it works.
 
 This is where I share what I'm building and learning: frontend experiments, useful tools, and the occasional idea that grows into an app.
 
-## 🧭 Right now
+## Right now
 
-- 🔭 **Exploring:** AI agents and automation, with hands-on projects to learn from.
-- 🌱 **Learning:** C++ and strengthening my problem-solving skills.
-- 🤝 **Looking for:** open-source projects where I can contribute and learn.
-- 💬 **Happy to talk about:** web development, campus tools, and competitive programming.
+- **Exploring:** AI agents and automation, with hands-on projects to learn from.
+- **Learning:** C++ and strengthening my problem-solving skills.
+- **Looking for:** open-source projects where I can contribute and learn.
+- **Happy to talk about:** web development, campus tools, and competitive programming.
 
-## 🛠️ Languages & tools
+## Languages & tools
 
 **Frontend:** `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Astro` `Tailwind CSS`
 
@@ -36,13 +36,13 @@ This is where I share what I'm building and learning: frontend experiments, usef
 
 **Programming & everyday tools:** `C` `C++` `Java` `Git` `VS Code` `Vite`
 
-## 🧩 Competitive programming
+## Competitive programming
 
 You'll find me on **[Codeforces as M4hdl](https://codeforces.com/profile/M4hdl)**. I'm practicing with **C++**, building my understanding of algorithms, and getting better at breaking problems down.
 
 Want to practice for a contest or compare approaches to a problem? I'm up for it.
 
-## 📈 GitHub activity
+## GitHub activity
 
 <p align="center">
   <a href="https://github.com/mahdiebene?tab=overview">
@@ -55,14 +55,32 @@ Want to practice for a contest or compare approaches to a problem? I'm up for it
   <a href="https://github.com/mahdiebene?tab=repositories">Repositories</a>
 </p>
 
-## 🚀 Selected projects
+## Selected projects
 
-- **[TrustLensAI](https://github.com/mahdiebene/TrustLensAI)** — Bengali-first claim verification with explainable trust scores. [Try it ↗](https://www.trustlensai.tech/)
-- **[EWU Toolbox](https://github.com/mahdiebene/EWU-ToolBox)** — An offline-first academic companion for EWU students. [Project page ↗](https://m4hdi.codes/projects/ba72d9eb-8b7a-4790-8a3e-45d88ce5e1a2)
-- **[Ani-Gadgets](https://github.com/mahdiebene/Ani-Gadgets)** — Anime merchandise discovery for fans in Bangladesh. [Explore ↗](https://www.anigadgetsbd.app/)
-- **[Project Earth](https://github.com/m4hdiebene/Project-Earth)** *(fork)* — A web home for the environmental organization Earth's Ants. [Visit site ↗](https://www.earthsants.org/)
+<p align="center">
+  <a href="https://www.trustlensai.tech/">
+    <img src="./assets/trustlens.svg" width="320" alt="TrustLensAI — Bengali-first claim verification" />
+  </a>
+  <a href="https://m4hdi.codes/projects/ba72d9eb-8b7a-4790-8a3e-45d88ce5e1a2">
+    <img src="./assets/ewu-toolbox.svg" width="320" alt="EWU Toolbox — an academic companion for EWU students" />
+  </a>
+</p>
 
-## 🤝 Let's connect
+<p align="center">
+  <a href="https://www.anigadgetsbd.app/">
+    <img src="./assets/ani-gadgets.svg" width="320" alt="Ani-Gadgets — anime merchandise discovery in Bangladesh" />
+  </a>
+  <a href="https://www.earthsants.org/">
+    <img src="./assets/project-earth.svg" width="320" alt="Project Earth — a web home for Earth's Ants" />
+  </a>
+</p>
+
+- **[TrustLensAI](https://github.com/mahdiebene/TrustLensAI)** — Bengali-first claim verification with explainable trust scores. [Try it](https://www.trustlensai.tech/)
+- **[EWU Toolbox](https://github.com/mahdiebene/EWU-ToolBox)** — An offline-first academic companion for EWU students. [Project page](https://m4hdi.codes/projects/ba72d9eb-8b7a-4790-8a3e-45d88ce5e1a2)
+- **[Ani-Gadgets](https://github.com/mahdiebene/Ani-Gadgets)** — Anime merchandise discovery for fans in Bangladesh. [Explore](https://www.anigadgetsbd.app/)
+- **[Project Earth](https://github.com/m4hdiebene/Project-Earth)** *(fork)* — A web home for the environmental organization Earth's Ants. [Visit site](https://www.earthsants.org/)
+
+## Let's connect
 
 Open-source contributions, creative builds, or contest practice—I'd love to collaborate. You can reach me by **[email](mailto:worksformahdi@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/m4hdi)**, and find more about me at **[m4hdi.codes](https://m4hdi.codes)**.
 
